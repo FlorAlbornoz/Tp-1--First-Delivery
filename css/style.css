@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Comfortaa:wght@300..700&display=swap');
+
+h1{text-align:center;
+text-decoration: underline;} 
+
+body{ 
+    font-family: "Comfortaa", sans-serif;
+    text-align: justify;
+    background-color: #a3b18a;color: #344e41;
+    }
+
+h1,h2,h3 
+{ font-family: "Bebas+Neue", sans-serif; }
+
+p+h3 {
+    font-weight: 300; 
+text-decoration: underline;
+}
